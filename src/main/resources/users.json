@@ -1,0 +1,20 @@
+[ {
+  "id" : "29ea0d8e-88cc-4ff8-ac4d-ac8e070f5ed0",
+  "localDate" : "2023-02-25",
+  "fullName" : "Davlatboyev Bobur",
+  "username" : "super",
+  "password" : "123",
+  "updateLocalDate" : "2023-04-08",
+  "role" : "SUPER_ADMIN",
+  "blocked" : false,
+  "block" : false
+}, {
+  "id" : "f93d47c7-f428-4bc8-8afe-a27cf8a73782",
+  "localDate" : "2023-05-18",
+  "fullName" : "Davlatboyev Bobur",
+  "username" : "bobur",
+  "password" : "0320",
+  "role" : "USER",
+  "blocked" : false,
+  "block" : false
+} ]
